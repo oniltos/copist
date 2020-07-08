@@ -1,0 +1,13 @@
+{
+    "name": "oniltos/copist",
+    "description": "A copy and cache API Client for your test environment.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nilton Freitas",
+            "email": "mail@niltonfreitas.com"
+        }
+    ],
+    "require": {}
+}
